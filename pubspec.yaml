@@ -1,0 +1,15 @@
+name: mathkarti
+version: 1.0.0+1
+publish_to: 'none'
+description: تطبيق مذكرتي من Godnit
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+
+flutter:
+  uses-material-design: true
